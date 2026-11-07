@@ -1,0 +1,25 @@
+{
+  "selected_index": 0,
+  "items": [
+    {
+      "title": "1.保色\\净白微纹理 \\肢体/手指/五官修正",
+      "content": "Exact 1:1 color-faithful 8K upscale and high-frequency micro-texture restoration. Strictly lock the exact original image composition, pixel colors, flat even lighting, and neutral color profile with zero exposure shift, zero blown-out highlights, and zero added objects. Reconstruct only the existing surface materials with extreme optical clarity: ultra-fine, spotless, blemish-free, supple matte-smooth organic skin texture where present, razor-sharp individual fine strands, crisp clean edges, and natural fabric weave details. Uniform balanced luminance and authentic DSLR raw optical sharpness."
+    },
+    {
+      "title": "2.轻柔高清修复 去多毛、带细毛孔-GROK版",
+      "content": "{\n  \"short_description\": \"Exact 1:1 color-faithful 8K upscale and high-frequency micro-texture restoration of a portrait and full human body, with strictly locked pixel alignment, original lighting, and zero structural or anatomical alteration.\",\n  \"objects\": [\n    {\n      \"description\": \"existing facial features, skin, hair, body parts, and material surfaces in the frame\",\n      \"texture\": \"natural microscopic skin pores, realistic subsurface scattering, subtle organic cellular grain, fine vellus hair where originally present, clean smooth matte transitions free of stray fibers or plastic sheen, and crisp structural edges on eyelids, lips, nostrils, fingers, joints, and all anatomical contours\"\n    }\n  ],\n  \"background_setting\": \"exact original background luminance, color, and elements without any modification, addition, or hallucinated content\",\n  \"lighting\": {\n    \"conditions\": \"strictly unchanged flat even original lighting\",\n    \"direction\": \"identical to input image\",\n    \"shadows\": \"unchanged soft original shadows with zero blown-out highlights or new specular spots\"\n  },\n  \"aesthetics\": {\n    \"composition\": \"strictly locked 1:1 spatial geometry and body proportions\",\n    \"color_scheme\": \"exact original neutral color profile with no temperature shift or saturation boost\"\n  },\n  \"style_medium\": \"unretouched medium-format DSLR raw photograph, natural skin texture, zero beauty filter or AI plastic look\"\n}"
+    },
+    {
+      "title": "3.轻柔高清修复 去多毛、带细毛孔",
+      "content": "{\"short_description\":\"Exact 1:1 color-faithful 8K upscale and high-frequency micro-texture restoration with strictly locked pixel alignment and original lighting.\",\"objects\":[{\"description\":\"existing shapes and material surfaces in the frame\",\"texture\":\"natural microscopic surface relief, subtle organic cellular grain, realistic subsurface scattering, clean smooth matte transitions free of stray fibers, and crisp structural edges\"}],\"background_setting\":\"exact original background luminance and color without any modification or hallucinated elements\",\"lighting\":{\"conditions\":\"strictly unchanged flat even original lighting\",\"direction\":\"identical to input image\",\"shadows\":\"unchanged soft original shadows with zero blown-out highlights\"},\"aesthetics\":{\"composition\":\"strictly locked 1:1 spatial geometry\",\"color_scheme\":\"exact original neutral color profile\"},\"style_medium\":\"unretouched medium-format DSLR raw photograph\"}"
+    },
+    {
+      "title": "4.最初强力 带毛孔版",
+      "content": "Exact 1:1 color-faithful 8K upscale and high-frequency detail restoration. Strictly lock the original image pixel colors, brightness, contrast, and neutral pale complexion with zero color grading, zero makeup addition, and zero saturation shift. Only reconstruct microscopic surface geometry: ultra-fine natural skin pores, smooth supple skin texture, fine vellus hairs, razor-sharp individual hair strands, crisp eyelashes, and clear lip texture. Unchanged original lighting and exact original color profile."
+    },
+    {
+      "title": "5.最初强力 美颜版",
+      "content": "Exact 1:1 color-faithful 8K upscale and high-frequency detail restoration. Strictly lock the original image pixel colors, brightness, contrast, and neutral pale complexion with zero color shift and zero makeup change. Reconstruct clean, spotless, blemish-free porcelain skin with ultra-fine, even, supple epidermis texture and delicate vellus hairs. Razor-sharp individual hair strands, crisp eyelashes, and clear hydrated lip texture. Unchanged original lighting and exact original color profile."
+    }
+  ]
+}
