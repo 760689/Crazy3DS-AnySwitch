@@ -1,3 +1,6 @@
+![License](https://img.shields.io/badge/license-MIT-blue.svg)
+![ComfyUI](https://img.shields.io/badge/ComfyUI-custom%20nodes-1ca89c.svg)
+![Nodes](https://img.shields.io/badge/nodes-4-brightgreen.svg)
 # Crazy3DS-AnySwitch
 
 > 给 ComfyUI 装一套"总开关"：一个工作流里塞进好几套参数、好几条分支，点一下鼠标就切换。
