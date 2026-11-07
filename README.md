@@ -40,7 +40,7 @@
 
 ```bash
 cd ComfyUI/custom_nodes
-git clone https://github.com/<your-name>/Crazy3DS-AnySwitch.git
+git clone https://github.com/760689/Crazy3DS-AnySwitch.git
 ```
 
 ### 方式 B：下载压缩包
